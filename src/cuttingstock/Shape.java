@@ -17,6 +17,8 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
+package cuttingstock;
+
 public class Shape {
    protected final int    id, width, height;
    protected final String name;
